@@ -1,0 +1,5 @@
+{
+  direccion: 'Icod de los Vinos, Spain',
+  lat: '28.370001',
+  lng: '-16.709999'
+}

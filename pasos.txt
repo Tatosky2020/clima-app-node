@@ -1,0 +1,34 @@
+# inicio proyecto
+
+
+
+npm init (inicializa aplicación noce -> crea package.json
+
+npm install -save yargs    (save: dependencias obligatorias de la aplicación)
+
+
+
+# subir a github
+
+git init  (repositorio inicializado)
+
+git status
+
+git add .  (agrega todos los elementos al stage)
+
+git commit -m "Primer commit"
+
+----- aquí estaría ya todo hecho a nivel local..
+-----
+> para subir a github habría que copiar el comando que hay en la web de github
+
+
+### releases en github
+
+git tag -a v1.0.0 -m "Primera versión"
+
+git tab
+
+git push --tags
+
+
